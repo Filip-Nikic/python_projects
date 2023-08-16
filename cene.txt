@@ -1,0 +1,4 @@
+banane, 200
+hleb, 90
+krompir, 120
+mleko, 150
